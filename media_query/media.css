@@ -1,0 +1,157 @@
+@media screen and (max-width: 1366px){
+    .header .send_message{
+        margin-left: 339px;
+    }
+    .header .header_overlay .history{
+        margin-left: 56px;
+    }
+    .navbar-collapse .navbar-nav{
+        text-align: center;
+        margin-left: -471px;
+    }
+    .working .container .row .col-md-3 {
+        margin-left: 100px;
+        margin-top: 51px;
+    }
+    .services .container .servis_box .col-md-6 .info_inf{
+        display: none;
+    }
+    .services .container .servis_box .col-md-6 img{
+        margin-left: -72px;
+    }
+    .skils .container .skillbar{
+        width: 234px;
+        margin-left: 0;
+    }
+    .skils .container .skills_box .col-md-4 .soc_icons{
+        margin-left: 23px;
+    }
+    .clients .container .owl-carousel {
+        margin-left: -218px;
+    }
+    .soc_pages .container .web_pages img{
+        display: block;
+        margin: 0 auto;
+        padding: 10px;
+    }
+
+}
+@media screen and (max-width: 980px){
+    body{
+        overflow-x: hidden;
+    }
+    .header .send_message{
+        margin-left: 206px;
+    }
+    .services .container .servis_box .col-md-6 .servis_buttons{
+        display: flex;
+        justify-content: center;
+        margin-bottom: 30px;
+        margin-left: -123px;
+
+    }
+    .services .container .servis_box .col-md-6 .servis_buttons .btn_s{
+        margin-left: 30px;
+    }
+    .skils .container .skillbar .filled{
+        margin-left: 116px;
+    }
+    .skils .container .skills_box .col-md-4 .soc_icons{
+        margin-left: 103px;
+        margin-top: -42px;
+
+    }
+    .skils .container .skills_box .col-md-4:nth-child(2){
+        margin-top: 103px;
+    }
+    .skils .container .skills_box .col-md-4:nth-child(3){
+        margin-top: 103px;
+    }
+    .clients .container .owl-carousel {
+        margin: 0 auto;
+    }
+
+
+    .clients .container .owl-carousel .owl-nav{
+        display: none;
+    }
+    .owl-theme .owl-dots {
+        display: none;
+    }
+    .working .container .row{
+        margin: 0 auto;
+    }
+}
+
+
+@media screen and (max-width: 768px){
+    .header .send_message{
+        margin-left: 106px;
+    }
+    .header .navbar .collapse{
+        margin-left: 407px;
+    }
+    .header .navbar .collapse .navbar-nav li{
+        margin-left: -96px;
+    }
+    .header .header_overlay h1{
+        font-size: 22px;
+    }
+    .header .header_overlay .history{
+        margin-left: 45px;
+        max-width: 432px;
+    }
+    .featured .container .featur_box .f_box .overlay_box{
+        margin-left: 102px;
+    }
+    .skils .container .skillbar{
+        margin-left: -10px;
+    }
+    .skils .container .skills_box .col-md-4 .soc_icons{
+        margin-left: 89px;
+    }
+    .soc_pages .container .web_pages img{
+        width: 202px;
+        height: 74px;
+    }
+}
+
+
+
+
+@media only screen and (max-width: 760px) and (min-width: 320px)  {
+
+    .header .send_message{
+        margin-left: 339px;
+    }
+   .skils .container .skills_box .com-md-4{
+       display: none;
+   }
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
